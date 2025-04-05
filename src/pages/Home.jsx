@@ -43,7 +43,7 @@ const Home = () => {
 
       <div className="w-full flex justify-center mt-6">
         <Link
-          to="/quotes"
+          to="/search"
           className="mx-auto text-center bg-[#6B8E75] text-white py-2 px-4 rounded-lg hover:bg-[#5A7B65] transition duration-300"
         >
           Lihat Semua Kutipan
